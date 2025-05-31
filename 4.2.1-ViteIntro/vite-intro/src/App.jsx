@@ -1,7 +1,7 @@
 import './App.css'
-import MainButton from './Components/MainButton';
+import MainButton from 'Components/MainButton';
 import Form from './Components/Form';
-import TitlesContainer from './Components/TitlesContainer';
+import TitlesContainer from 'Components/TitlesContainer';
 import { useState } from 'react';
 
 function App() {

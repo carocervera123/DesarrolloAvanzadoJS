@@ -1,5 +1,5 @@
 import React from "react";
-import MainButton from "./MainButton";
+import MainButton from "MainButton";
 
 function Form({input, setInput, setName}){
 
